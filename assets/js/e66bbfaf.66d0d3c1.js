@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknemesisdb=self.webpackChunknemesisdb||[]).push([[1960],{7814:e=>{e.exports=JSON.parse('{"title":"Docker","description":"Docker instructions","slug":"/category/docker","permalink":"/category/docker","navigation":{"previous":{"title":"Install","permalink":"/category/install"},"next":{"title":"Linux","permalink":"/home/install/docker/linux"}}}')}}]);
