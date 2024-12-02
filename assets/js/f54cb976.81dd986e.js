@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknemesisdb=self.webpackChunknemesisdb||[]).push([[6168],{2007:e=>{e.exports=JSON.parse('{"title":"Python","description":"Python API","slug":"/category/python","permalink":"/category/python","navigation":{"previous":{"title":"Overview","permalink":"/client_apis/Overview"},"next":{"title":"KV","permalink":"/category/kv"}}}')}}]);
