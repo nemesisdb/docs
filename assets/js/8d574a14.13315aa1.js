@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknemesisdb=self.webpackChunknemesisdb||[]).push([[3469],{9305:e=>{e.exports=JSON.parse('{"title":"Learn Key Value","description":"15 minutes to explore session data.","slug":"/category/learn-key-value","permalink":"/category/learn-key-value","navigation":{"next":{"title":"Setup","permalink":"/tutorials/first-steps-kv/setup"}}}')}}]);
